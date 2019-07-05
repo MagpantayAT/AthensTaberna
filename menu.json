@@ -1,0 +1,230 @@
+[
+	{
+		"id":"appetizers",
+		"display": "Appetizers",
+		"data":[
+			{
+				"src" : "hummus.jpg",
+				"name": "Hummus with Falafel",
+				"desc": "MEDITERRANEAN DISH MADE OF CHICKPEAS PUREE, ATHENS TAHINI, SMOKED PAPRIKA AND OLIVE OIL, SERVE WITH PITA.",
+				"price":"290"
+			},
+			{
+				"src" : "babaganoush.jpg",
+				"name": "Babaganoush",
+				"desc": "MEDTERRANEAN APPETIZER MADE OF BURNT EGGPLANT PUREE, ATHENS TAHINI, SMOKED PAPRIKA AND OLIVE OIL, SERVE WITH PITA BREAD (COLD).",
+				"price":"200"
+			},
+			{
+				"src" : "matbukha.jpg",
+				"name": "Matbukha",
+				"desc": "MEDITERREAN APPETIZER MADE OF TOMATO, GARLIC & CHILLI PEPPER, SERVE WITH PITA BREAD (HOT).",
+				"price":"200"
+			},
+			{
+				"src" : "ezme.jpg",
+				"name": "Ezme",
+				"desc": "MEDITERREAN APPETIZER MADE OF CHILLI, BELL PEPPER’S, TOMATOES, & CUCUMBER PUREE, SERVE WITH BREAD (COLD).",
+				"price":"200"
+			},
+			{
+				"src" : "meze.jpg",
+				"name": "Meze Platter",
+				"desc": "COMPOSED OF 5 KINDS ATHENS COLD & HOT APPETIZERS, (HUMMUS, BABAGANOUSH, MATBUKHA, EZME, EGGPLANT SALAD), SERVE WITH FRESH BAKED LAVASH BREAD.",
+				"price":"450"
+			}
+		]
+	},
+	{
+		"id":"main",
+		"display": "Main Dishes",
+		"data":[
+			{
+				"src" : "tuvuksis.jpg",
+				"name": "Tuvuksis (Chicken Kebab)",
+				"desc": "GRILLED CHICKEN BREAST SKEWER SEASONED WITH ATHENS SPICES MIXTURE, SERVED WITH CHOICE OF SIDE, MEDITERREAN SALAD, GRILLED VEGGIES  & ATHENS TAHINI SAUCE.",
+				"price":"350"
+			},
+			{
+				"src" : "adana.jpg",
+				"name": "Adana (Beef Kebab)",
+				"desc": "GRILLED BEEF MIXTURE SKEWER SEASONED WITH ATHENS SPICES, SERVED WITH CHOICE OF SIDE, MEDITERREAN SALAD, GRILLED VEGGIES  & ATHENS TAHINI SAUCE.",
+				"price":"350"
+			},
+			{
+				"src" : "shawa.jpg",
+				"name": "Athens Shawarma on Plate Beef/Chicken",
+				"desc": "HUMMUS, MEDITERREAN SALAD, MEAT & ATHENS TAHINI SAUCE. SERVE WITH PITA BREAD. (CHOICE OF BEEF OR CHICKEN)",
+				"price":"350"
+			},
+			{
+				"src" : "schnit.jpg",
+				"name": "Schnitzel",
+				"desc": "DEEP FRIED BREADED CHICKEN BREAST, MARINATED WITH MIXTURE OF HERBS & SPICES. SERVED WITH SKINDER SAUCE & CREAMY MASH POTATO.",
+				"price":"320"
+			},
+			{
+				"src" : "lamb.jpg",
+				"name": "Lamb Kebab",
+				"desc": "GRILLED LAMB MIXTURE SKEWER SEASONED WITH ATHENS SPICES, SERVED WITH CHOICE OF SIDE, MEDITERREAN SALAD, GRILLED VEGGIES  & ATHENS TAHINI SAUCE.",
+				"price":"450"
+			},
+			{
+				"src" : "schnit-strips.jpg",
+				"name": "Schnitzel Strips",
+				"desc": "DEEP FRIED BREADED CHICKEN BREAST, MARINATED WITH MIXTURE OF HERBS & SPICES. SERVED WITH SKINDER SAUCE & LEMON.",
+				"price":"385"
+			}
+		]
+	},
+	{
+		"id":"side",
+		"display": "Side Dishes",
+		"data":[
+			{
+				"src" : "fries.jpg",
+				"name": "French Fries",
+				"desc": "",
+				"price":"75"
+			},
+			{
+				"src" : "mashed-potato.jpg",
+				"name": "Mashed Potato",
+				"desc": "",
+				"price":"60"
+			},
+			{
+				"src" : "pita-bread.jpg",
+				"name": "Pita Bread",
+				"desc": "",
+				"price":"30"
+			},
+			{
+				"src" : "yellow-rice.jpg",
+				"name": "Yellow Rice",
+				"desc": "",
+				"price":"45"
+			},
+			{
+				"src" : "pickles.jpg",
+				"name": "Pickles",
+				"desc": "",
+				"price":"60"
+			},
+			{
+				"src" : "olives.jpg",
+				"name": "Olives",
+				"desc": "",
+				"price":"60"
+			}
+		]
+	},
+	{
+		"id":"salad",
+		"display": "Salad",
+		"data": [
+			{
+				"src" : "tabouleh.jpg",
+				"name": "Tabouleh",
+				"desc": "COMPOSED OF BURGHUL, FRESH HERBS & FRESH LEMON JUICE..",
+				"price":"180"
+			},
+			{
+				"src" : "cabbage.jpg",
+				"name": "Cabbage and Carrot Slaw",
+				"desc": "COMPOSED OF FRESH CABBAGE & CARROT  TOSSED IN ATHENS VINEGRETTE.",
+				"price":"150"
+			}
+		]
+	},
+	{
+		"id": "soup",
+		"display": "Soup",
+		"data": [
+			{
+				"src" : "red.jpg",
+				"name": "Red Lentil",
+				"desc": "MEDITERREAN SOUP MADE OF LENTILS, TOMATO PUREE, POTATO, & CARROTS. SERVE WITH LAVASH BREAD.",
+				"price":"120"
+			},
+			{
+				"src" : "tom.jpg",
+				"name": "Tomato Soup",
+				"desc": "TOMATO PUREE, HERBS, MOZZARELLA CHEESE & CILANTRO. SERVE WITH LAVASH BREAD.",
+				"price":"120"
+			}
+		]
+	},
+	{
+		"id": "pizza",
+		"display": "Pizza",
+		"data": [
+			{
+				"src" : "shawarma-pizza.jpg",
+				"name": "Shawarma Pizza",
+				"desc": "ATHENS IN-HOUSE PIZZA DOUGH BASED WITH BASIL PUREE TOPPED WITH BELLPEPPER, TOMATOES, ONION, MUSHROOM,CHEDDAR CHEESE, MOZARELLA CHEESE & MEAT. (BEEF&LAMB OR CHICKEN).",
+				"price": "9-300;12-420"
+			},
+			{
+				"src" : "garden-pizza.jpg",
+				"name": "Garden Pizza",
+				"desc": "ATHENS IN-HOUSE PIZZA DOUGH BASED WITH BASIL PUREE TOPPED WITH BELLPEPPER, TOMATOES, ONION, MUSHROOM,CHEDDAR CHEESE, MOZARELLA CHEESE, BLACK OLIVES & EGGPLANT. (VEGETERIAN).",
+				"price": "9-300;12-420"
+			},
+			{
+				"src" : "lahmacun-pizza.jpg",
+				"name": "Lahmacun Pizza",
+				"desc": "ATHENS IN-HOUSE PIZZA DOUGH WITH BEEF, ONION, BELLPEPPERS, GREEN CHILLI & FRESH HERB.",
+				"price":"180"
+			},
+			{
+				"src" : "chiz-pide.jpg",
+				"name": "Cheese Pide",
+				"desc": "ATHENS IN-HOUSE PIZZA DOUGH TOPPED WITH CHEDDAR & MOZARELLA CHEESE GARNISH WITH TOMATOES, GREEN CHILLI & HERBS.",
+				"price":"250"
+			}
+		]
+	},
+	{
+		"id": "sandwiches",
+		"display": "Sandwiches",
+		"data": [
+			{
+				"src" : "greek-burger.jpg",
+				"name": "Greek Burger",
+				"desc": "GREEK SALAD CONSISTS OF CUCUMBER, TOMATOES, LETUCE, PARSLEY, OLIVE OIL,GREEN CHILI, FETA CHEESE, ONION, BLACK OLIVES.",
+				"price":"200"
+			},
+			{
+				"src" : "athens-shawarma.jpg",
+				"name": "Athens Shawarma",
+				"desc": "HUMMUS, MEDITERREAN SALAD, ONION TOMATO SUMAC SLAW, MEAT & ATHENS TAHINI SAUCE. *SERVE IN PITA BREAD & FRIES. (CHOICE OF BEEF&LAMB OR CHICKEN).",
+				"price":"220"
+			},
+			{
+				"src" : "shawarma-lafa.jpg",
+				"name": "Athens Shawarma in LAFA",
+				"desc": "HUMMUS, MEDITERREAN SALAD, ONION TOMATO SUMAC SLAW, MEAT & ATHENS TAHINI SAUCE. *SERVE IN LAFA BREAD & FRIES. (CHOICE OF BEEF&LAMB OR CHICKEN).",
+				"price":"240"
+			}
+		]
+	},
+	{
+		"id": "deserts",
+		"display": "Dessrts",
+		"data":[
+			{
+				"src" : "bakla.jpg",
+				"name": "Baklava",
+				"desc": "",
+				"price":"45"
+			},
+			{
+				"src" : "reva.jpg",
+				"name": "Revabni",
+				"desc": "",
+				"price":"150"
+			}
+		]
+	}
+]
